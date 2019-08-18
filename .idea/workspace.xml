@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b6f0b28-bd9f-444d-852f-a88e997f3a2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaintro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.adamwier.javacourse.lesson2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/lesson10/LoggingLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/lesson3/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.adamwier.javacourse.lesson2/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/adamwier/javacourse/CarSelectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/adamwier/javacourse/CarServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/adamwier/javacourse/CarSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/adamwier/javacourse/CarService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/adamwier/javacourse/CarState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/adamwier/javacourse/lesson10/LoggingLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/adamwier/javacourse/lesson2/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/adamwier/javacourse/lesson3/Name.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/adamwier/javacourse/CarSelectorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/adamwier/javacourse/CarServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/adamwier/javacourse/lesson2/PersonTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/adamwier/javacourse/lesson2/PersonTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/adamwier/javacourse/CarServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarSelector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/adamwier/javacourse/CarSelectorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.adamwier.javacourse.lesson2/PersonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logger</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.adamwier.javacourse.lesson2/PersonTestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.adamwier.javacourse.lesson2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/lesson10/LoggingLevel.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.adamwier.javacourse.lesson2/PersonTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adamwier/javacourse/CarSelectorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adamwier/javacourse/CarServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarSelector.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaintro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaintro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.adamwier.javacourse.lesson2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566144182299" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.adamwier.javacourse.lesson2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web-projects\javaintro\src\main\java" />
+      <recent name="D:\web-projects\javaintro\src\main\java\com" />
+      <recent name="D:\web-projects\javaintro\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.adamwier.javacourse" />
+      <recent name="com.adamwier.javacourse.lesson2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CarSelector">
+    <configuration name="CarSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adamwier.javacourse.CarSelector" />
+      <module name="javaintro" />
+      <option name="PROGRAM_PARAMETERS" value="flying DRIVING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adamwier.javacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarSelectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaintro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adamwier.javacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adamwier.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.adamwier.javacourse.CarSelectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaintro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adamwier.javacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adamwier.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.adamwier.javacourse.CarServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaintro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adamwier.javacourse.lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adamwier.javacourse.lesson2" />
+      <option name="MAIN_CLASS_NAME" value="com.adamwier.javacourse.lesson2.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.shouldReturnNumberOfPersons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaintro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adamwier.javacourse.lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adamwier.javacourse.lesson2" />
+      <option name="MAIN_CLASS_NAME" value="com.adamwier.javacourse.lesson2.PersonTest" />
+      <option name="METHOD_NAME" value="shouldReturnNumberOfPersons" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CarSelector" />
+      <item itemvalue="JUnit.CarServiceTest" />
+      <item itemvalue="JUnit.PersonTest" />
+      <item itemvalue="JUnit.PersonTest.shouldReturnNumberOfPersons" />
+      <item itemvalue="JUnit.CarSelectorTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarSelector" />
+        <item itemvalue="JUnit.CarSelectorTest" />
+        <item itemvalue="JUnit.CarServiceTest" />
+        <item itemvalue="JUnit.PersonTest" />
+        <item itemvalue="JUnit.PersonTest.shouldReturnNumberOfPersons" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b6f0b28-bd9f-444d-852f-a88e997f3a2b" name="Default Changelist" comment="" />
+      <created>1553704797700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553704797700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PersonTest_shouldReturnNumberOfPersons - 2019.06.10 at 15h 22m 19s.xml">
+      <configuration name="PersonTest.shouldReturnNumberOfPersons" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_shouldReturnNumberOfPersons - 2019.06.10 at 15h 55m 09s.xml">
+      <configuration name="PersonTest.shouldReturnNumberOfPersons" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_shouldReturnNumberOfPersons - 2019.06.10 at 15h 59m 49s.xml">
+      <configuration name="PersonTest.shouldReturnNumberOfPersons" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest - 2019.06.10 at 16h 42m 21s.xml">
+      <configuration name="PersonTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarServiceTest - 2019.08.18 at 16h 28m 37s.xml">
+      <configuration name="CarServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarServiceTest - 2019.08.18 at 16h 35m 45s.xml">
+      <configuration name="CarServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarServiceTest - 2019.08.18 at 16h 37m 33s.xml">
+      <configuration name="CarServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarServiceTest - 2019.08.18 at 16h 37m 46s.xml">
+      <configuration name="CarServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarSelectorTest - 2019.08.18 at 17h 03m 05s.xml">
+      <configuration name="CarSelectorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarSelectorTest - 2019.08.18 at 17h 29m 47s.xml">
+      <configuration name="CarSelectorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.46588486" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/PersonTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.adamwier.javacourse.lesson2/PersonTestTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/lesson10/LoggingLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.adamwier.javacourse.lesson2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/lesson3/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adamwier/javacourse/CarServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.adamwier.javacourse.lesson2/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adamwier/javacourse/CarSelectorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adamwier/javacourse/CarSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaintro</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apiguardian:apiguardian-api:1.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
