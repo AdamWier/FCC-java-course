@@ -7,7 +7,8 @@ public class CarServiceTest {
     @Test
     public void shouldDemonstrateLogging() throws Exception {
         CarService carService = new CarService();
-        carService.process("BMW");
+        // carService.process("BMW");
+        carService.drive();
     }
 
 }

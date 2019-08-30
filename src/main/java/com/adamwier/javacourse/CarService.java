@@ -14,4 +14,20 @@ public class CarService {
     public void process(String input) throws Exception {
         CarState carState = CarState.from(input);
     }
+
+    public void drive() {
+        BMW bmw = new BMW();
+        bmw.message();
+        Porsche porsche = new Porsche();
+        Mercedes mercedes = new Mercedes();
+
+        Car[] cars = {bmw, porsche, mercedes};
+        for (Car car: cars){
+            car.drive();
+        }
+
+        bmw.drive();
+        porsche.drive();
+        mercedes.drive();
+    }
 }
