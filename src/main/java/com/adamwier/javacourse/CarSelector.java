@@ -20,11 +20,11 @@ public class CarSelector {
             }
         }
         */
-    Porsche porsche = new Porsche();
+    Porsche porsche = new Porsche("Adam");
     try{
 
     } finally {
-        porsche.close();
+        // porsche.close();
     }
     }
 

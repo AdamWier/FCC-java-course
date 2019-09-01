@@ -18,7 +18,7 @@ public class CarService {
     public void drive() {
         BMW bmw = new BMW();
         bmw.message();
-        Porsche porsche = new Porsche();
+        Porsche porsche = new Porsche("Adam");
         Mercedes mercedes = new Mercedes();
 
         Car[] cars = {bmw, porsche, mercedes};
